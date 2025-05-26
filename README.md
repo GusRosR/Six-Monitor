@@ -22,14 +22,14 @@ sudo chmod +x sixMonitor.sh
 ```
 
 # Navigation Keys
-• **Enter**-> Move to the next section
-• **Backspace**-> Move to the previous section 
+• **Enter**-> Move to the next section. <br>
+• **Backspace**-> Move to the previous section. <br>
 • **q** or **Q**-> Exit the current monitoring screen or quit the program entirely (press twice).
 
 # Coming Soon...
 
-1. Colored circles for better visualization.
-2. CPU temperature and top-running processes.
-3. More detailed memory stats.
-4. A main menu screen on launch.
-5. Code refactoring for modularity and security.
+1. Colored circles for better visualization. 
+2. CPU temperature and top-running processes. 
+3. More detailed memory stats. 
+4. A main menu screen on launch. 
+5. Code refactoring for modularity and security. 
