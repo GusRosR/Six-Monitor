@@ -10,7 +10,7 @@ This is an evolving project and will continue to receive improvements over time.
 
 ```bash
 git clone https://github.com/GusRosR/Six-Monitor
-
+cd Six-Monitor/
 ```
 ## 2. Make sure the script is executable
 ```bash
