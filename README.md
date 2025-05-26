@@ -9,8 +9,8 @@ This is an evolving project and will continue to receive improvements over time.
 ## 1. Clone This Repository
 
 ```bash
-git clone https://github.com/GusRosR/Linux.git
-cd Linux/"Bash Scripting"/"Six Monitor"
+git clone https://github.com/GusRosR/Six-Monitor
+
 ```
 ## 2. Make sure the script is executable
 ```bash
